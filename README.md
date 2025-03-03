@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunrak/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 ## Trie
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/kunrak/leetcode_solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/kunrak/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kunrak/leetcode_solutions/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 <!---LeetCode Topics End-->
