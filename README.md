@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/kunrak/leetcode_solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/kunrak/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunrak/leetcode_solutions/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/kunrak/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kunrak/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kunrak/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/kunrak/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -65,5 +66,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kunrak/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kunrak/leetcode_solutions/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kunrak/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
