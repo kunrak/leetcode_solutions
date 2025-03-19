@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kunrak/leetcode_solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kunrak/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/kunrak/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/kunrak/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunrak/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kunrak/leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
