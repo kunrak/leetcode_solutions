@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/kunrak/leetcode_solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/kunrak/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kunrak/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kunrak/leetcode_solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/kunrak/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunrak/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kunrak/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kunrak/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
