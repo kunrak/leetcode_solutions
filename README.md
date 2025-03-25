@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/kunrak/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/kunrak/leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
+| [1635-number-of-good-pairs](https://github.com/kunrak/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/kunrak/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/kunrak/leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/kunrak/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/kunrak/leetcode_solutions/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/kunrak/leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/kunrak/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kunrak/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/kunrak/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
