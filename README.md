@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/kunrak/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/kunrak/leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
+| [2727-number-of-senior-citizens](https://github.com/kunrak/leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/kunrak/leetcode_solutions/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/kunrak/leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/kunrak/leetcode_solutions/tree/master/0965-unique-email-addresses) |
 | [1635-number-of-good-pairs](https://github.com/kunrak/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/kunrak/leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
